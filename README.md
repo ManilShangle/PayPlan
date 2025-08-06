@@ -21,26 +21,9 @@ BNPL usage is skyrocketing, especially among Gen Z, but it's easy to lose track 
 
 ## Links
 
-- [Read the full story]Coming Soon
-- [Landing Page](LANDING_PAGE_LINK)
-- [Demo Video](Optional)
+- [Read the full story](#)
+- [Landing Page](manilshangle.github.io/PayPlanWebsite)
 - Coming soon on the [Chrome Web Store](#)
-
-## 🧩 Project Architecture
-
-This project uses:
-- `content.js`: Detects keywords and captures screenshots
-- `background.js`: Sends data to the AI server + Google Calendar integration
-- `Tesseract.js`: OCR for reading screen text
-- `PyTorch + Flask`: Custom classifier for BNPL screen detection (private)
-- `Google OAuth`: For syncing calendar events
-
-_Only the frontend logic and interface design are shown here. Proprietary detection code, ML model, and backend API are excluded._
-
-## 📸 Screenshots
-
-![Popup Calendar UI](demo/calendar.png)
-![Detection Toast](demo/toast.png)
 
 ## 🔐 Security & Privacy
 
@@ -50,5 +33,5 @@ _Only the frontend logic and interface design are shown here. Proprietary detect
 
 ## 👨‍💻 Author
 
-Built by [Your Name]  
-[LinkedIn](#) • [GitHub](#) • [Support Page](LANDING_PAGE/support.html)
+Built by Manil Shangle
+[LinkedIn](https://www.linkedin.com/in/manilshangle) • [GitHub](https://github.com/ManilShangle) • [Support Page](manilshangle.github.io/PayPlanWebsite/support.html)
