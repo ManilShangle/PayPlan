@@ -21,7 +21,7 @@ BNPL usage is skyrocketing, especially among Gen Z, but it's easy to lose track 
 
 ## Links
 
-- [Read the full story](#)
+- [Read the full story](https://www.kaggle.com/code/manilshangle/payplan-bnpl-article)
 - [Landing Page](manilshangle.github.io/PayPlanWebsite)
 - Coming soon on the [Chrome Web Store](#)
 
