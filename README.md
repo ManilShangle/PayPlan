@@ -25,13 +25,14 @@ BNPL usage is skyrocketing, especially among Gen Z, but it's easy to lose track 
 - [Landing Page](manilshangle.github.io/PayPlanWebsite)
 - Coming soon on the [Chrome Web Store](#)
 
-## 🔐 Security & Privacy
+## Security & Privacy
 
 - No data is sold or stored externally
 - BNPL detection happens locally and server inference only runs image classification
 - Google Calendar sync uses secure OAuth2 via Google Cloud
 
-## 👨‍💻 Author
+## Author
 
 Built by Manil Shangle
+
 [LinkedIn](https://www.linkedin.com/in/manilshangle) • [GitHub](https://github.com/ManilShangle) • [Support Page](manilshangle.github.io/PayPlanWebsite/support.html)
